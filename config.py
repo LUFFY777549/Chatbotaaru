@@ -29,10 +29,5 @@ STICKER = [
 ]
 
 IMG = [
-    "https://files.catbox.moe/rz42be.jpg",
-    "https://files.catbox.moe/41e7z2.jpg",
-    "https://files.catbox.moe/q4o6l9.jpg",
-    "https://files.catbox.moe/q4o6l9.jpg",
-    "https://files.catbox.moe/0mpi0w.jpg",
-    "https://files.catbox.moe/jnmurs.jpg",
+    "https://files.catbox.moe/8eobds.jpg",
 ]
