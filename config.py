@@ -8,7 +8,7 @@ API_HASH = getenv("API_HASH", "3474a18b61897c672d315fb330edb213")
 BOT_TOKEN = getenv("BOT_TOKEN", "7442709602:AAE0Z65zpbiPnyMRAmxZISKS0m_V3soJd7w")
 OWNER_ID = int(getenv("OWNER_ID", 7019600964))
 LOGGER_ID = int(getenv("LOGGER_ID", -1002345678901))
-MONGO_URL = getenv("MONGO_URL", "mongodb+srv://luffybot:12345@cluster0.mongodb.net/?retryWrites=true&w=majority")
+MONGO_URL = getenv("MONGO_URL", "mongodb+srv://sufyan532011:5042@auctionbot.5ms20.mongodb.net/?retryWrites=true&w=majority&appName=AuctionBot")
 AUTH_CHANNEL = int(getenv("AUTH_CHANNEL", -1002955024896))
 FSUB = int(getenv("FSUB", -1002955024896))
 WEB_APP = getenv("WEB_APP", "False").lower() == "true"
