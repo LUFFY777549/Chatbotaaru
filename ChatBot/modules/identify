@@ -10,7 +10,7 @@ import google.generativeai as genai
 
 # --- Gemini API Keys (cycle from here) ---
 GEMINI_KEYS = [
-    "KEY_1",
+    "AIzaSyCmZYuxe4JeEbGURuJa6jPoQNvt677tp0E",
     # Add more API keys below if available
     # "AIzaSyExampleKey2...",
     # "AIzaSyExampleKey3..."
